@@ -1,0 +1,9 @@
+{
+  "rds_host": "project-database.cgycpxlt2mev.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "admin",
+  "rds_password" : "verylongpassword",
+  "rds_db": "CIS_550_FINAL",
+  "server_host": "localhost",
+  "server_port":"8080"
+}
